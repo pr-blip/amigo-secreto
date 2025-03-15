@@ -3,3 +3,4 @@
 Para ejecutar el amigo secreto, debes poner:
 
 ```npm install react ```
+Sistema de Registro 2
